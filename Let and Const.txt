@@ -1,0 +1,7 @@
+﻿1. const PI = 3.14
+
+
+2. Let has block scope
+3. Const has block scope and cannot be resassigned. 
+4. Const cannot be reassigned let can
+5. Hoisting means you can access a variable although it will show undefined  before you actually reach the part of the code where it is declared.
